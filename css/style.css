@@ -1,18 +1,19 @@
 * {
     page: 300px;
 }
-  body{
+
+body {
   margin: 0;
   padding: 0;
 }
 
-header{
+header {
   background-image: url("../image/image2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-  img {
+img {
   height: 70px;
 }
 
@@ -197,9 +198,6 @@ ul {
   background-color: white;
 }
 
-.ederson {
-  background-color: white;
-}
 
 .footer {
   background-color: gray;
@@ -217,20 +215,6 @@ ul {
 
 .jj {
   display: flex;
-}
-
-
-.uefa {
-  text-align: center;
-}
-
-.uefa {
-  text-align: center;
-  margin-top: 3rem;
-}
-
-.hero {
-  text-align: center;
 }
 
 .robot {
@@ -277,9 +261,6 @@ ul {
   background-color: beige;
 }
 
-.walker {
-  background-color: cadetblue;
-}
 
 footer {
   background-color: brown;
