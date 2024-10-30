@@ -1,5 +1,5 @@
 * {
-    page: 300px;
+  page: 300px;
 }
 
 body {
@@ -198,7 +198,6 @@ ul {
   background-color: white;
 }
 
-
 .footer {
   background-color: gray;
   padding: 20px;
@@ -260,7 +259,6 @@ ul {
 .robot-two {
   background-color: beige;
 }
-
 
 footer {
   background-color: brown;
