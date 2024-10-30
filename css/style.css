@@ -1,300 +1,300 @@
 * {
     page: 300px;
-  }
+}
   body{
-      margin: 0;
-      padding: 0;
-  }
+  margin: 0;
+  padding: 0;
+}
   
-  header{
-      background-image: url("../image/image2.jpg");
-      background-repeat: no-repeat;
-      background-size: cover;
-  }
+header{
+  background-image: url("../image/image2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
   
   img {
-   height: 70px;
-  }
+  height: 70px;
+}
   
-  ul {
-    display: none;
-  }
+ul {
+  display: none;
+}
   
-  .image h3 {
-    color: blue;
-  }
+.image h3 {
+  color: blue;
+}
   
-  .montana {
-    background-image: url("../image/image3.jpg");
-  }
+.montana {
+  background-image: url("../image/image3.jpg");
+}
   
-  .kaka {
-    display: flex;
-  }
+.kaka {
+  display: flex;
+}
   
-  .kaka h1 {
-    color: aqua;
-  }
+.kaka h1 {
+  color: aqua;
+}
   
-  .uefa {
-    background-color: lightskyblue;
-    width: 200px;
-    margin-left: 60px;
-  }
+.uefa {
+  background-color: lightskyblue;
+  width: 200px;
+  margin-left: 60px;
+}
   
-  .ederson {
-    background-color: gray;
-  }
+.ederson {
+  background-color: gray;
+}
   
-  .hero {
-    background-color: lightskyblue;
-    width: 200px;
-    margin-left: 60px;
-  }
+.hero {
+  background-color: lightskyblue;
+  width: 200px;
+  margin-left: 60px;
+}
   
-  .me {
-    background-color: lightskyblue;
-    width: 200px;
-    margin: 60px;
-    text-align: center;
-  }
+.me {
+  background-color: lightskyblue;
+  width: 200px;
+  margin: 60px;
+  text-align: center;
+}
   
-  .lol {
-    background-color: lightskyblue;
-    width: 200px;
-    margin: 60px;
-  }
+.lol {
+  background-color: lightskyblue;
+  width: 200px;
+  margin: 60px;
+}
   
-  .nerus {
-    background-color: lightskyblue;
-    width: 200px;
-    margin: 60px;
-    text-align: center;
-  }
+.nerus {
+  background-color: lightskyblue;
+  width: 200px;
+  margin: 60px;
+  text-align: center;
+}
   
-  .ali {
-    background-color: lightskyblue;
-    width: 200px;
-    margin: 60px;
-    text-align: center;
-  }
+.ali {
+  background-color: lightskyblue;
+  width: 200px;
+  margin: 60px;
+  text-align: center;
+}
   
-  .epl {
-    background-color: lightskyblue;
-    width: 200px;
-    margin: 60px;
-  }
+.epl {
+  background-color: lightskyblue;
+  width: 200px;
+  margin: 60px;
+}
   
-  .savio {
-    background-color: lightskyblue;
-    width: 200px;
-    margin: 60px;
-  }
+.savio {
+  background-color: lightskyblue;
+  width: 200px;
+  margin: 60px;
+}
   
-  .hh {
-    background-color: lightskyblue;
-    width: 200px;
-    margin: 60px;
-  }
+.hh {
+  background-color: lightskyblue;
+  width: 200px;
+  margin: 60px;
+}
   
-  .ff {
-    background-color: lightskyblue;
-    width: 200px;
-    margin: 60px;
-    text-align: center;
-  }
+.ff {
+  background-color: lightskyblue;
+  width: 200px;
+  margin: 60px;
+  text-align: center;
+}
   
-  .ss {
-    background-color: lightskyblue;
-    width: 200px;
-    margin: 60px;
-    text-align: center;
-  }
+.ss {
+  background-color: lightskyblue;
+  width: 200px;
+  margin: 60px;
+  text-align: center;
+}
   
-  .jamal {
-    background-color: lightskyblue;
-    width: 200px;
-    margin: 60px;
-    text-align: center;
-  }
+.jamal {
+  background-color: lightskyblue;
+  width: 200px;
+  margin: 60px;
+  text-align: center;
+}
   
-  .yamal {
-    background-color: lightskyblue;
-    width: 200px;
-    margin: 60px;
-    text-align: center;
-  }
+.yamal {
+  background-color: lightskyblue;
+  width: 200px;
+  margin: 60px;
+  text-align: center;
+}
   
-  .clex {
-    background-image: url(../image/image52.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
+.clex {
+  background-image: url(../image/image52.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
   
-  .roddy {
-    background-color: lightskyblue;
-    width: 200px;
-    margin-left: 60px;
-  }
+.roddy {
+  background-color: lightskyblue;
+  width: 200px;
+  margin-left: 60px;
+}
   
-  .eminem h1 {
-    text-align: center;
-  }
+.eminem h1 {
+  text-align: center;
+}
   
-  .rich {
-    background-color: lightskyblue;
-    width: 200px;
-    margin-left: 60px;
-  }
+.rich {
+  background-color: lightskyblue;
+  width: 200px;
+  margin-left: 60px;
+}
   
-  .durkio {
-    background-color: lightskyblue;
-    width: 200px;
-    margin-left: 60px;
-    text-align: center;
-  }
+.durkio {
+  background-color: lightskyblue;
+  width: 200px;
+  margin-left: 60px;
+  text-align: center;
+}
   
-  .wave h5 {
-    text-align: center;
-  }
+.wave h5 {
+  text-align: center;
+}
   
-  .wave h1 {
-    text-align: center;
-  }
+.wave h1 {
+  text-align: center;
+}
   
-  .wayne p {
-    text-align: center;
-  }
+.wayne p {
+  text-align: center;
+}
   
-  .rod h2 {
-    text-align: center;
-  }
+.rod h2 {
+  text-align: center;
+}
   
-  .rod h5 {
-    text-align: center;
-  }
+.rod h5 {
+  text-align: center;
+}
   
-  .rod p {
-    text-align: center;
-  }
+.rod p {
+  text-align: center;
+}
   
-  .eminem img {
-    height: 200px;
-    margin-bottom: 10px;
-    padding-top: 40px;
-  }
+.eminem img {
+  height: 200px;
+  margin-bottom: 10px;
+  padding-top: 40px;
+}
   
-  .yb p {
-    text-align: center;
-  }
+.yb p {
+  text-align: center;
+}
   
-  .walker {
-    background-color: white;
-  }
+.walker {
+  background-color: white;
+}
   
-  .father {
-    background-color: white;
-  }
+.father {
+  background-color: white;
+}
   
-  .ederson {
-    background-color: white;
-  }
+.ederson {
+  background-color: white;
+}
   
-  .footer {
-    background-color: gray;
-    padding: 20px;
-    margin: 10px;
-  }
+.footer {
+  background-color: gray;
+  padding: 20px;
+  margin: 10px;
+}
   
-  .min {
-    display: flex;
-    justify-content: space-between;
-    padding: 20px;
-    margin: 10px;
-    width: 100%;
-  }
+.min {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  margin: 10px;
+  width: 100%;
+}
   
-  .jj {
-    display: flex;
-  }
+.jj {
+  display: flex;
+}
   
-  .lol {
-    text-align: center;
-  }
+.lol {
+  text-align: center;
+}
   
-  .uefa {
-    text-align: center;
-  }
+.uefa {
+  text-align: center;
+}
   
-  .uefa {
-    text-align: center;
-    margin-top: 3rem;
-  }
+.uefa {
+  text-align: center;
+  margin-top: 3rem;
+}
   
-  .hero {
-    text-align: center;
-  }
+.hero {
+  text-align: center;
+}
   
-  .robot {
-    display: block;
-    gap: 1em;
-  }
+.robot {
+  display: block;
+  gap: 1em;
+}
   
-  .kelly {
-    background-color: lightskyblue;
-    width: 200px;
-    margin: 60px;
-    text-align: center;
-  }
+.kelly {
+  background-color: lightskyblue;
+  width: 200px;
+  margin: 60px;
+  text-align: center;
+}
   
-  .bella {
-    background-color: lightsteelblue;
-    width: 200px;
-    margin: 60px;
-  }
+.bella {
+  background-color: lightsteelblue;
+  width: 200px;
+  margin: 60px;
+}
   
-  .gg {
-    display: flex;
-  }
+.gg {
+  display: flex;
+}
   
-  .image img {
-    height: 200px;
-    width: 300px;
-  }
+.image img {
+  height: 200px;
+  width: 300px;
+}
   
-  .refe img {
-    height: 200px;
-    width: 320px;
-  }
+.refe img {
+  height: 200px;
+  width: 320px;
+}
   
-  .jesus {
-    background-color: grey;
-  }
+.jesus {
+  background-color: grey;
+}
   
-  .tony {
-    background-color: blanchedalmond;
-  }
+.tony {
+  background-color: blanchedalmond;
+}
   
-  .robot {
-    background-color: beige;
-  }
+.robot {
+  background-color: beige;
+}
   
-  .walker {
-    background-color: cadetblue;
-  }
+.walker {
+  background-color: cadetblue;
+}
   
-  footer {
-    background-color: brown;
-  }
+footer {
+  background-color: brown;
+}
   
-  button {
-    background-color: white;
-    color: blue;
-    font-weight: bold;
-    margin: 0.5rem;
-    border-radius: 5%;
-    border: 1px solid gray;
-  }
+button {
+  background-color: white;
+  color: blue;
+  font-weight: bold;
+  margin: 0.5rem;
+  border-radius: 5%;
+  border: 1px solid gray;
+}
   
   
   
