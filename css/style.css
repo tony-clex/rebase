@@ -67,6 +67,8 @@ ul {
 .hero {
   background-color: lightskyblue;
   width: 200px;
+  display: block;
+  gap: 1em;
 
   /* margin-left: 60px; */
 }
@@ -190,10 +192,6 @@ ul {
   background-color: white;
 }
 
-.ederson {
-  background-color: white;
-}
-
 .footer {
   background-color: gray;
   padding: 20px;
@@ -213,11 +211,6 @@ ul {
 
 .hero {
   text-align: center;
-}
-
-.robot {
-  display: block;
-  gap: 1em;
 }
 
 .bella {
