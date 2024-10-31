@@ -1,20 +1,37 @@
 * {
-  page: 300px;
-}
-
-body {
-  margin: 0;
   padding: 0;
+  margin: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
 }
 
-header {
-  background-image: url("../image/image2.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
+header{
+    background-image: url("../image/image2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.icon {
+  color: #fff;
+  font-size: 3rem;
+}
+
+.intro {
+  color: #fff;
+  font-weight: bolder;
+  padding: 1rem 0.5rem;
 }
 
 img {
-  height: 70px;
+ height: 70px;
 }
 
 ul {
@@ -23,6 +40,11 @@ ul {
 
 .image h3 {
   color: blue;
+  padding-bottom: 0.6rem;
+}
+
+.image h1 {
+  padding-bottom: 0.6rem;
 }
 
 .montana {
@@ -37,12 +59,6 @@ ul {
   color: aqua;
 }
 
-.uefa {
-  background-color: lightskyblue;
-  width: 200px;
-  margin-left: 60px;
-}
-
 .ederson {
   background-color: gray;
 }
@@ -50,47 +66,19 @@ ul {
 .hero {
   background-color: lightskyblue;
   width: 200px;
-  margin-left: 60px;
-}
-
-.me {
-  background-color: lightskyblue;
-  width: 200px;
-  margin: 60px;
-  text-align: center;
-}
-
-.lol {
-  background-color: lightskyblue;
-  width: 200px;
-  margin: 60px;
-  text-align: center;
-}
-
-.nerus {
-  background-color: lightskyblue;
-  width: 200px;
-  margin: 60px;
-  text-align: center;
-}
-
-.ali {
-  background-color: lightskyblue;
-  width: 200px;
-  margin: 60px;
-  text-align: center;
+  /*margin-left: 60px;*/
 }
 
 .epl {
   background-color: lightskyblue;
   width: 200px;
-  margin: 60px;
+  /*margin: 60px;*/
 }
 
 .savio {
   background-color: lightskyblue;
   width: 200px;
-  margin: 60px;
+  /*margin: 60px;*/
 }
 
 .hh {
@@ -128,7 +116,7 @@ ul {
 }
 
 .clex {
-  background-image: url("../image/image52.jpg");
+  background-image: url(../image/image52.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -181,7 +169,6 @@ ul {
 }
 
 .eminem img {
-  height: 200px;
   margin-bottom: 10px;
   padding-top: 40px;
 }
@@ -192,9 +179,14 @@ ul {
 
 .walker {
   background-color: white;
+  padding: 2rem 2.5rem;
 }
 
 .father {
+  background-color: white;
+}
+
+.ederson {
   background-color: white;
 }
 
@@ -206,9 +198,8 @@ ul {
 
 .min {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
-  padding: 20px;
-  margin: 10px;
   width: 100%;
 }
 
@@ -216,16 +207,13 @@ ul {
   display: flex;
 }
 
+.hero {
+  text-align: center;
+}
+
 .robot {
   display: block;
   gap: 1em;
-}
-
-.kelly {
-  background-color: lightskyblue;
-  width: 200px;
-  margin: 60px;
-  text-align: center;
 }
 
 .bella {
@@ -233,6 +221,7 @@ ul {
   width: 200px;
   margin: 60px;
 }
+
 
 .gg {
   display: flex;
@@ -244,31 +233,87 @@ ul {
 }
 
 .refe img {
-  height: 200px;
-  width: 320px;
+  width: 100%;
 }
 
 .jesus {
   background-color: grey;
+  padding: 2rem 2.5rem;
+
 }
 
 .tony {
   background-color: blanchedalmond;
 }
 
-.robot-two {
+.robot {
   background-color: beige;
+  padding: 2rem 2.5rem;
+}
+
+.players {
+  padding: 1rem;
+  margin: 1rem 0;
+  text-align: center;
+  background-color: #fff;
+  border-radius: 0.3rem;
+  box-shadow: 0 4px 2px #7f7e7e;
+
+  img {
+    width: 50%;
+    border-radius: 10px;
+  }
+}
+
+.walker {
+  background-color: cadetblue;
 }
 
 footer {
   background-color: brown;
+
+  img {
+    width: 100px;
+  }
 }
 
 button {
-  background-color: white;
-  color: blue;
+  background-color: transparent;
+  color: #000;
   font-weight: bold;
   margin: 0.5rem;
   border-radius: 5%;
-  border: 1px solid gray;
+  border: 1px solid #fff;
+  padding: 0.5rem;
+}
+
+.work {
+  padding: 1rem;
+  margin: 1rem 0;
+  text-align: center;
+  background-color: #fff;
+  border-radius: 0.3rem;
+  box-shadow: 0 4px 2px #7f7e7e;
+}
+
+.tatah {
+  padding: 1rem;
+  margin: 1rem 0;
+  text-align: center;
+  background-color: #fff;
+  border-radius: 0.3rem;
+  box-shadow: 0 4px 2px #7f7e7e;
+}
+
+.buri{
+  padding: 1rem;
+  margin: 1rem 0;
+  text-align: center;
+  background-color: #fff;
+  border-radius: 0.3rem;
+  box-shadow: 0 4px 2px #7f7e7e;
+}
+
+.water {
+  padding: 2rem 2.5rem;
 }
