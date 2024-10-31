@@ -2,16 +2,17 @@
   padding: 0;
   margin: 0;
 }
-body{
-    margin: 0;
-    padding: 0;
+
+body {
+  margin: 0;
+  padding: 0;
 }
 
-header{
-    background-image: url("../image/image2.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+header {
+  background-image: url("../image/image2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 
 nav {
@@ -31,7 +32,7 @@ nav {
 }
 
 img {
- height: 70px;
+  height: 70px;
 }
 
 ul {
@@ -66,19 +67,22 @@ ul {
 .hero {
   background-color: lightskyblue;
   width: 200px;
-  /*margin-left: 60px;*/
+
+  /* margin-left: 60px; */
 }
 
 .epl {
   background-color: lightskyblue;
   width: 200px;
-  /*margin: 60px;*/
+
+  /* margin: 60px; */
 }
 
 .savio {
   background-color: lightskyblue;
   width: 200px;
-  /*margin: 60px;*/
+
+  /* margin: 60px; */
 }
 
 .hh {
@@ -116,7 +120,7 @@ ul {
 }
 
 .clex {
-  background-image: url(../image/image52.jpg);
+  background-image: url("../image/image52.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -222,7 +226,6 @@ ul {
   margin: 60px;
 }
 
-
 .gg {
   display: flex;
 }
@@ -239,7 +242,6 @@ ul {
 .jesus {
   background-color: grey;
   padding: 2rem 2.5rem;
-
 }
 
 .tony {
@@ -265,16 +267,12 @@ ul {
   }
 }
 
-.walker {
-  background-color: cadetblue;
-}
-
 footer {
   background-color: brown;
+}
 
-  img {
-    width: 100px;
-  }
+.img {
+  width: 100px;
 }
 
 button {
@@ -305,7 +303,7 @@ button {
   box-shadow: 0 4px 2px #7f7e7e;
 }
 
-.buri{
+.buri {
   padding: 1rem;
   margin: 1rem 0;
   text-align: center;
