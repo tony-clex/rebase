@@ -69,6 +69,7 @@ ul {
   width: 200px;
   display: block;
   gap: 1em;
+  text-align: center;
 
   /* margin-left: 60px; */
 }
@@ -207,10 +208,6 @@ ul {
 
 .jj {
   display: flex;
-}
-
-.hero {
-  text-align: center;
 }
 
 .bella {
